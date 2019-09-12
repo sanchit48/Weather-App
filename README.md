@@ -5,6 +5,11 @@
 ## About
 This app shows the current weather of a city by fetching the data from the openweathermap.org API and display in the activity. <br>
 
+## Apk file
+
+- https://drive.google.com/file/d/1XCBjpaUbfdg_i64ZIg5OeUUyzRdokTjK/view?usp=sharing
+
+
 ## Screenshots
 
  <img src="Images/HomeScreen.jpeg" width="420" height="700" /> | <img src="Images/Result.jpeg" width="420" height="700" /> | 
